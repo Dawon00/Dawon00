@@ -9,5 +9,3 @@
 -->
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawon00&show_icons=true&theme=buefy)
-
-[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=dawonny)](https://dawonny.tistory.com/)
