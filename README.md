@@ -13,3 +13,11 @@ A Front-End Developer from South Korea
 
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=git,js,html,css,react,tailwind,vscode,notion)](https://skillicons.dev)
+
+### 📕 Latest Blog Posts
+
+- [&lt;개발자를 위한 커리어 관리 핸드북&gt; 도서 리뷰](http://dawonny.tistory.com/467)
+- ['실용주의 기술 블로그 글쓰기' 테크세미나 후기](http://dawonny.tistory.com/466)
+- [&lt;읽기 쉬운 코드&gt; 도서 리뷰](http://dawonny.tistory.com/465)
+- [&lt;실전 스벨트 &amp; 스벨트킷 입문&gt; 도서 리뷰](http://dawonny.tistory.com/464)
+- [[React] api 호출 결과 캐싱하기 (feat. session storage)](http://dawonny.tistory.com/463)
