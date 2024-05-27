@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 자정에 실행
+    - cron: "0 */1 * * *" # 매 시간 정각에 실행
   push:
     branches:
       - main
@@ -12,25 +12,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: "14"
+          node-version: "16"
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Run update script
         run: npm start
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'Dawon00'
-          git config --global user.email 'dawon000203@gmail.com'
-          git add README.md
-          git commit -m 'Update README with latest blog posts'
-          git push https://Dawon00:${{ secrets.GH_PERSONAL_TOKEN }}@github.com/Dawon00/Dawon00.git
+      - name: Commit README
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
+          GH_PERSONAL_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
+        run: |
+          git config --local user.name 'Dawon00'
+          git config --local user.email 'dawon000203@gmail.com'
+          git add README.md
+          git commit -m 'Update README.md'
+          git push https://Dawon00:${{ secrets.GH_PERSONAL_TOKEN }}@github.com/Dawon00/Dawon00.git
