@@ -26,11 +26,15 @@ jobs:
         run: npm start
 
       - name: Commit README
-        env:
-          GH_PERSONAL_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
         run: |
           git config --local user.name 'Dawon00'
           git config --local user.email 'dawon000203@gmail.com'
-          git add README.md
-          git commit -m 'Update README.md'
-          git push https://Dawon00:${{ secrets.GH_PERSONAL_TOKEN }}@github.com/Dawon00/Dawon00.git
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m 'Update README with latest blog posts'
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GH_PERSONAL_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
