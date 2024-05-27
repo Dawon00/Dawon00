@@ -31,6 +31,6 @@ jobs:
           git config --global user.email 'dawon000203@gmail.com'
           git add README.md
           git commit -m 'Update README with latest blog posts'
-          git push
+          git push https://Dawon00:${{ secrets.GH_PERSONAL_TOKEN }}@github.com/Dawon00/Dawon00.git
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
