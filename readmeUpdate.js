@@ -18,28 +18,24 @@ const parser = new Parser({
   const feed = await parser.parseURL("https://dawonny.tistory.com/rss");
 
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-  let latestPosts = "\n### Latest Blog Posts\n\n";
+  let latestPosts = "### Latest Blog Posts\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
     const { title, link } = feed.items[i];
     latestPosts += `- [${title}](${link})\n`;
   }
 
   // 기존 README.md에 최신 블로그 포스트 추가
-  if (readmeContent.includes("### Latest Blog Posts")) {
-    readmeContent = readmeContent.replace(
-      /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
-      latestPosts
-    );
-  } else {
-    readmeContent += latestPosts;
-  }
+  const updatedReadmeContent = readmeContent.includes("### Latest Blog Posts")
+    ? readmeContent.replace(
+        /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
+        latestPosts
+      )
+    : readmeContent + "\n" + latestPosts;
 
-  // README.md 파일 작성
-  writeFileSync(readmePath, readmeContent, "utf8", (e) => {
-    if (e) {
-      console.error(e);
-    } else {
-      console.log("README.md 업데이트 완료");
-    }
-  });
+  if (updatedReadmeContent !== readmeContent) {
+    writeFileSync(readmePath, updatedReadmeContent, "utf8");
+    console.log("README.md 업데이트 완료");
+  } else {
+    console.log("새로운 블로그 포스트가 없습니다. README.md 파일이 업데이트되지 않았습니다.");
+  }
 })();
