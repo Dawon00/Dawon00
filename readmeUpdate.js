@@ -21,6 +21,7 @@ const parser = new Parser({
   let latestPosts = "### Latest Blog Posts\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
     const { title, link } = feed.items[i];
+    link = link.startsWith('http://') ? 'https://' + link.slice(7) : link;
     latestPosts += `- [${title}](${link})\n`;
   }
 
