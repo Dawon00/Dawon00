@@ -16,9 +16,9 @@ A Front-End Developer from South Korea
 
 ### Latest Blog Posts
 
+- [&lt;에러가 무섭지 않게 되는 책&gt; 도서리뷰](https://dawonny.tistory.com/472)
 - [&lt;러닝 깃허브 액션&gt; 도서 리뷰](https://dawonny.tistory.com/471)
 - [정보처리기사 필기 응시 리뷰 (feat. 합격)](https://dawonny.tistory.com/470)
 - [오픈소스 문서 번역 기여 해보기(feat. MDN Web Docs)](https://dawonny.tistory.com/469)
 - [티스토리에 글 작성하면 자동 Github 커밋되게 하기(feat. GitActions)](https://dawonny.tistory.com/468)
-- [&lt;개발자를 위한 커리어 관리 핸드북&gt; 도서 리뷰](https://dawonny.tistory.com/467)
 
