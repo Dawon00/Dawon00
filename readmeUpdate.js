@@ -18,7 +18,7 @@ const parser = new Parser({
   const feed = await parser.parseURL("https://dawonny.tistory.com/rss");
 
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-  let latestPosts = "### Latest Blog Posts\n\n";
+  let latestPosts = "#### Latest Blog Posts\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
     let { title, link } = feed.items[i];
     link = link.startsWith('http://') ? 'https://' + link.slice(7) : link;
@@ -26,9 +26,9 @@ const parser = new Parser({
   }
 
   // 기존 README.md에 최신 블로그 포스트 추가
-  const newReadmeContent = readmeContent.includes("### Latest Blog Posts")
+  const newReadmeContent = readmeContent.includes("#### Latest Blog Posts")
     ? readmeContent.replace(
-        /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
+        /#### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
         latestPosts
       )
     : readmeContent + latestPosts;
