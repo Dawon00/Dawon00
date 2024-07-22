@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [[React] SVG 이미지 화질 깨짐 문제 해결하기 (feat. object 태그)](https://dawonny.tistory.com/475)
 - [&lt;프런트엔드 개발을 위한 테스트 입문&gt; 도서 리뷰](https://dawonny.tistory.com/474)
 - [Google I/O Extended Pangyo 2024 후기](https://dawonny.tistory.com/473)
 - [&lt;에러가 무섭지 않게 되는 책&gt; 도서리뷰](https://dawonny.tistory.com/472)
 - [&lt;러닝 깃허브 액션&gt; 도서 리뷰](https://dawonny.tistory.com/471)
-- [정보처리기사 필기 응시 리뷰 (feat. 합격)](https://dawonny.tistory.com/470)
 
