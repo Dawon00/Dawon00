@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [SVG 파일 크기 최적화해보기 (feat. SVGO)](https://dawonny.tistory.com/477)
 - [sitemap 생성 및 구글 서치 콘솔 제출 (feat. vercel, react)](https://dawonny.tistory.com/476)
 - [[React] SVG 이미지 화질 깨짐 문제 해결하기 (feat. object 태그)](https://dawonny.tistory.com/475)
 - [&lt;프런트엔드 개발을 위한 테스트 입문&gt; 도서 리뷰](https://dawonny.tistory.com/474)
 - [Google I/O Extended Pangyo 2024 후기](https://dawonny.tistory.com/473)
-- [&lt;에러가 무섭지 않게 되는 책&gt; 도서리뷰](https://dawonny.tistory.com/472)
 
