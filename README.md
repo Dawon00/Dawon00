@@ -20,7 +20,7 @@ I am a developer from Korea interested in front-end development.
 
 
 #### Activity
-- DND 동아리 (2024.06. – Present)
+- DND 동아리 (2024.06. – 2024.08)
 - SK텔레콤 DEVOCEAN YOUNG 2기 (2023.03. – 2023.11)
 - Google I/O Extended Seoul 스태프 (2023.07)
 - GDSC HUFS 4, 5기 Core Member (2022.08. - 2024.07)
