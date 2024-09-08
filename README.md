@@ -5,7 +5,7 @@ I am a developer from Korea interested in front-end development.
 
 #### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,html,css,react,tailwind,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,react,nextjs,tailwind,vscode)](https://skillicons.dev)
 
 #### Award
 - 2023 한국외국어대학교 AI/SW 창업프로젝트 | 우수상 (2023.11) 
