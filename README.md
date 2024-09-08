@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [프로젝트에 즐거움을, DND 11기 후기](https://dawonny.tistory.com/483)
 - [2년간의 GDSC(Google Developer Student Clubs) HUFS 후기](https://dawonny.tistory.com/482)
 - [[실무로 통하는 클린코드] 도서 리뷰](https://dawonny.tistory.com/481)
 - [JUNCTION ASIA 2024 후기](https://dawonny.tistory.com/480)
 - [2024 인프콘 후기](https://dawonny.tistory.com/479)
-- [[업무에 활용하는 node.js] 도서 리뷰](https://dawonny.tistory.com/478)
 
