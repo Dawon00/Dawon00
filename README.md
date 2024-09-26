@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [[소프트웨어 개발에 ChatGPT 사용하기] 도서 리뷰](https://dawonny.tistory.com/485)
 - [[오류] git push RPC failed; HTTP 400](https://dawonny.tistory.com/484)
 - [프로젝트에 즐거움을, DND 11기 후기](https://dawonny.tistory.com/483)
 - [2년간의 GDSC(Google Developer Student Clubs) HUFS 후기](https://dawonny.tistory.com/482)
 - [[실무로 통하는 클린코드] 도서 리뷰](https://dawonny.tistory.com/481)
-- [JUNCTION ASIA 2024 후기](https://dawonny.tistory.com/480)
 
