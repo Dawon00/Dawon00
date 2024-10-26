@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [Web으로 구현하는 카메라 기능: 스냅피 프로젝트 개발기](https://dawonny.tistory.com/488)
 - [[전혀 다른 생성형 AI] 도서 리뷰](https://dawonny.tistory.com/487)
 - [0초가 0초가 아닐 때, setTimeout(0)의 실행](https://dawonny.tistory.com/486)
 - [[소프트웨어 개발에 ChatGPT 사용하기] 도서 리뷰](https://dawonny.tistory.com/485)
 - [[오류] git push RPC failed; HTTP 400](https://dawonny.tistory.com/484)
-- [프로젝트에 즐거움을, DND 11기 후기](https://dawonny.tistory.com/483)
 
