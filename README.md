@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [웹에서 새 창(window)과의 데이터 통신 구현하기](https://dawonny.tistory.com/490)
 - [[헬로 Bun] 도서 리뷰](https://dawonny.tistory.com/489)
 - [Web으로 구현하는 카메라 기능: 스냅피 프로젝트 개발기](https://dawonny.tistory.com/488)
 - [[전혀 다른 생성형 AI] 도서 리뷰](https://dawonny.tistory.com/487)
 - [0초가 0초가 아닐 때, setTimeout(0)의 실행](https://dawonny.tistory.com/486)
-- [[소프트웨어 개발에 ChatGPT 사용하기] 도서 리뷰](https://dawonny.tistory.com/485)
 
