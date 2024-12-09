@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [제55회 SQLD 독학 합격 후기(feat. 1트)](https://dawonny.tistory.com/494)
 - [[비전공자도 배울 수 있는 타입스크립트] 도서 리뷰](https://dawonny.tistory.com/493)
 - [수동 배포에서 CI/CD 파이프라인 구축까지 (feat. Github Actions)](https://dawonny.tistory.com/492)
 - [클라이언트 상태(Client State)와 서버 상태(Server State)](https://dawonny.tistory.com/491)
 - [웹에서 새 창(window)과의 데이터 통신 구현하기](https://dawonny.tistory.com/490)
-- [[헬로 Bun] 도서 리뷰](https://dawonny.tistory.com/489)
 
