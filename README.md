@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [2024년까지의 회고 (feat. 대학생활, 취준, 그리고...)](https://dawonny.tistory.com/497)
 - [자바스크립트 로딩 최적화 전략 알아보기](https://dawonny.tistory.com/496)
 - [[트랜스폼드] 도서 리뷰](https://dawonny.tistory.com/495)
 - [제55회 SQLD 독학 합격 후기(feat. 1트)](https://dawonny.tistory.com/494)
 - [[비전공자도 배울 수 있는 타입스크립트] 도서 리뷰](https://dawonny.tistory.com/493)
-- [수동 배포에서 CI/CD 파이프라인 구축까지 (feat. Github Actions)](https://dawonny.tistory.com/492)
 
