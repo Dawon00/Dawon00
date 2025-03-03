@@ -32,9 +32,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [Tanstack Query 핵심 기능 정리](https://dawonny.tistory.com/500)
 - [[고작 다섯 명이 한 말을 어떻게 믿어요?] 도서 리뷰](https://dawonny.tistory.com/499)
 - [React 메모이제이션 딥다이브](https://dawonny.tistory.com/498)
 - [2024년까지의 회고 (feat. 대학생활, 취준, 그리고...)](https://dawonny.tistory.com/497)
 - [자바스크립트 로딩 최적화 전략 알아보기](https://dawonny.tistory.com/496)
-- [[트랜스폼드] 도서 리뷰](https://dawonny.tistory.com/495)
 
