@@ -4,7 +4,10 @@ I am a developer from Korea interested in front-end development.
 
 #### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,react,nextjs,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vscode,git)](https://skillicons.dev)
+
+#### Work Experience
+- 카카오페이증권 | 인턴, FE개발 (2025.02 -)
 
 #### Award
 - 2023 한국외국어대학교 AI/SW 창업프로젝트 | 우수상 (2023.11) 
@@ -19,13 +22,14 @@ I am a developer from Korea interested in front-end development.
 
 
 #### Activity
+- 글쓰는 개발자 모임, 글또 (2024.10 - 2025.03)
 - DND 동아리 (2024.06. – 2024.08)
-- SK텔레콤 DEVOCEAN YOUNG 2기 (2023.03. – 2023.11)
+- SK텔레콤 DEVOCEAN YOUNG 2기 (2023.03 – 2023.11)
 - Google I/O Extended Seoul 스태프 (2023.07)
-- GDSC HUFS 4, 5기 Core Member (2022.08. - 2024.07)
-- UMC 3기 Node.js 파트장, 4기 Web 파트장 (2022.08. – 2023.08)
-- 한국외대 SW봉사단 23년도 부회장 (2022.01. -2023.12)
-- 컴퓨터공학부 학회 21년도 TAB 학회장 (2020.03 -2023.12)
+- GDSC HUFS 4, 5기 Core Member (2022.08 - 2024.07)
+- UMC 3기 Node.js 파트장, 4기 Web 파트장 (2022.08 – 2023.08)
+- 한국외대 SW봉사단 23년도 부회장 (2022.01 - 2023.12)
+- 컴퓨터공학부 학회 21년도 TAB 학회장 (2020.03 - 2023.12)
 
 
 
