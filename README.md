@@ -35,9 +35,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [[멀티패러다임 프로그래밍] 도서 리뷰](https://dawonny.tistory.com/502)
 - [[패턴으로 익히고 설계로 완성하는 리액트] 도서 리뷰](https://dawonny.tistory.com/501)
 - [Tanstack Query 핵심 기능 정리](https://dawonny.tistory.com/500)
 - [[고작 다섯 명이 한 말을 어떻게 믿어요?] 도서 리뷰](https://dawonny.tistory.com/499)
 - [React 메모이제이션 딥다이브](https://dawonny.tistory.com/498)
-- [2024년까지의 회고 (feat. 대학생활, 취준, 그리고...)](https://dawonny.tistory.com/497)
 
