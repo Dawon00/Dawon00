@@ -35,9 +35,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
-- [Claude에 로컬 폴더 연결하기: MCP 서버 설정 방법](https://dawonny.tistory.com/505)
 - [반복자 패턴에 일급 함수를 더하면](https://dawonny.tistory.com/503)
 - [[멀티패러다임 프로그래밍] 도서 리뷰](https://dawonny.tistory.com/502)
 - [[패턴으로 익히고 설계로 완성하는 리액트] 도서 리뷰](https://dawonny.tistory.com/501)
 - [Tanstack Query 핵심 기능 정리](https://dawonny.tistory.com/500)
+- [[고작 다섯 명이 한 말을 어떻게 믿어요?] 도서 리뷰](https://dawonny.tistory.com/499)
 
