@@ -7,7 +7,7 @@ I am a developer from Korea interested in front-end development.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vscode,git)](https://skillicons.dev)
 
 #### Work Experience
-- 카카오페이증권 | 인턴, FE개발 (2025.02 -)
+- 카카오페이증권 | 인턴, FE개발 (2025.02 - 2025.07)
 
 #### Award
 - 2023 한국외국어대학교 AI/SW 창업프로젝트 | 우수상 (2023.11) 
