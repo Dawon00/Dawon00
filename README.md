@@ -35,9 +35,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [[프런트엔드 레벨을 높이는 자바스크립트 퀴즈북] 도서 리뷰](https://dawonny.tistory.com/510)
 - [[실무로 통하는 웹 API] 도서 리뷰](https://dawonny.tistory.com/509)
 - [[소플의 처음 만난 Next.js] 도서 리뷰](https://dawonny.tistory.com/508)
 - [[개발자를 위한 글쓰기 가이드] 도서 리뷰](https://dawonny.tistory.com/507)
 - [Brower MCP, 내 브라우저를 자동화 할 수 있도록](https://dawonny.tistory.com/506)
-- [Claude에 로컬 폴더 연결하기: MCP 서버 설정 방법](https://dawonny.tistory.com/505)
 
