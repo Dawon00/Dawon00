@@ -35,9 +35,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [[React Native] Liquid Glass 헤더 효과 비활성화하는 방법](https://dawonny.tistory.com/511)
 - [[프런트엔드 레벨을 높이는 자바스크립트 퀴즈북] 도서 리뷰](https://dawonny.tistory.com/510)
 - [[실무로 통하는 웹 API] 도서 리뷰](https://dawonny.tistory.com/509)
 - [[소플의 처음 만난 Next.js] 도서 리뷰](https://dawonny.tistory.com/508)
 - [[개발자를 위한 글쓰기 가이드] 도서 리뷰](https://dawonny.tistory.com/507)
-- [Brower MCP, 내 브라우저를 자동화 할 수 있도록](https://dawonny.tistory.com/506)
 
