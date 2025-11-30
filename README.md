@@ -35,9 +35,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [[바이브 코딩 너머 개발자 생존법] 도서 리뷰](https://dawonny.tistory.com/513)
 - [Claude가 Notion에 접근할 수 있도록 하기 (feat. MCP 서버)](https://dawonny.tistory.com/512)
 - [[React Native] Liquid Glass 헤더 효과 비활성화하는 방법](https://dawonny.tistory.com/511)
 - [[프런트엔드 레벨을 높이는 자바스크립트 퀴즈북] 도서 리뷰](https://dawonny.tistory.com/510)
 - [[실무로 통하는 웹 API] 도서 리뷰](https://dawonny.tistory.com/509)
-- [[소플의 처음 만난 Next.js] 도서 리뷰](https://dawonny.tistory.com/508)
 
