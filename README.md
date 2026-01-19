@@ -35,9 +35,9 @@ I am a developer from Korea interested in front-end development.
 
 #### Latest Blog Posts
 
+- [Default Export vs Named Export, 어떻게 선택하고 계신가요?](https://dawonny.tistory.com/518)
 - [[그림으로 이해하는 도커와 쿠버네티스] 도서 리뷰](https://dawonny.tistory.com/517)
 - [[소프트웨어 아키텍처 The Basics 2판] 도서 리뷰](https://dawonny.tistory.com/516)
 - [[개발자는 글을 못 쓴다고요?] 도서 리뷰](https://dawonny.tistory.com/515)
 - [DevFest Incheon 2025 후기](https://dawonny.tistory.com/514)
-- [[바이브 코딩 너머 개발자 생존법] 도서 리뷰](https://dawonny.tistory.com/513)
 
