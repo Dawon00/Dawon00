@@ -22,6 +22,11 @@ I am a developer from Korea interested in front-end development.
 
 
 #### Activity
+리뷰어
+- 한빛미디어 IT개발서적 리뷰어 <나는 리뷰어다> (2024.01. – 2025.12)
+- 제이펍 IT 전문서 리뷰어 3기 (2024.01. – 2024.12)
+
+커뮤니티
 - 글쓰는 개발자 모임, 글또 (2024.10 - 2025.03)
 - DND 동아리 (2024.06. – 2024.08)
 - SK텔레콤 DEVOCEAN YOUNG 2기 (2023.03 – 2023.11)
