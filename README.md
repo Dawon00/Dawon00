@@ -1,14 +1,15 @@
 [![LocalCat](https://localcat.vercel.app/api/badge/Dawon00)](https://github.com/seodawon/localcat)
 #### Hi! I'm Dawon 👋
 
-I am a developer from Korea interested in front-end development.
+구현의 속도는 도구가 담당하는 시대에서, 더 나은 방향을 고민하는 개발자입니다.
 
 #### Skills & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vscode,git)](https://skillicons.dev)
 
 #### Work Experience
-- 카카오페이증권 | 인턴, FE개발 (2025.02 - 2025.07)
+- 메가존클라우드 (MegazoneCloud) | 백엔드 개발자 (2025.02 - present)
+- 카카오페이증권 (KakaoPay Securities) | 프론트엔드 개발 인턴 (2025.02 - 2025.07)
 
 #### Award
 - 2023 한국외국어대학교 AI/SW 창업프로젝트 | 우수상 (2023.11) 
@@ -20,7 +21,6 @@ I am a developer from Korea interested in front-end development.
 - HUFS 오픈소스 협업 해커톤 | 가장 완성도가 높은 애플리케이션 부문 우수상 (2022.06) 
 - 2022 HUFS 하계 모각코 캠프 | 우수상 (2022.06)
 - 2021 HUFS 하계 모각코 캠프 | 우수상 (2021.06) 
-
 
 #### Activity
 리뷰어
@@ -36,8 +36,6 @@ I am a developer from Korea interested in front-end development.
 - UMC 3기 Node.js 파트장, 4기 Web 파트장 (2022.08 – 2023.08)
 - 한국외대 SW봉사단 23년도 부회장 (2022.01 - 2023.12)
 - 컴퓨터공학부 학회 21년도 TAB 학회장 (2020.03 - 2023.12)
-
-
 
 #### Latest Blog Posts
 
