@@ -39,9 +39,9 @@
 
 #### Latest Blog Posts
 
+- [Strands Evals SDK로 AI 에이전트 자동 채점 시스템 만들기](https://dawonny.tistory.com/522)
 - [[우리, 프로그래머들] 도서 리뷰](https://dawonny.tistory.com/521)
 - [Claude Code의 메모리 관리](https://dawonny.tistory.com/520)
 - [Oh-My-ClaudeCode](https://dawonny.tistory.com/519)
 - [Default Export vs Named Export, 어떻게 선택하고 계신가요?](https://dawonny.tistory.com/518)
-- [[그림으로 이해하는 도커와 쿠버네티스] 도서 리뷰](https://dawonny.tistory.com/517)
 
