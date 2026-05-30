@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vscode,git)](https://skillicons.dev)
 
 #### Work Experience
-- 메가존클라우드 (MegazoneCloud) | 백엔드 개발자 (2025.02 - present)
+- 메가존클라우드 (MegazoneCloud) | 백엔드 개발자 (2026.02 - present)
 - 카카오페이증권 (KakaoPay Securities) | 프론트엔드 개발 인턴 (2025.02 - 2025.07)
 
 #### Award
