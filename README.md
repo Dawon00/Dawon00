@@ -1,4 +1,3 @@
-[![LocalCat](https://localcat.vercel.app/api/badge/Dawon00)](https://github.com/seodawon/localcat)
 #### Hi! I'm Dawon 👋
 
 구현의 속도는 도구가 담당하는 시대에서, 더 나은 방향을 고민하는 개발자입니다.
