@@ -39,9 +39,9 @@
 
 #### Latest Blog Posts
 
+- [AWS Summit Seoul 2026 - K-POP 글로벌 라이브: Mnet+ 4K와 AI 자막](https://dawonny.tistory.com/524)
 - [[그림으로 이해하는 AWS 구조와 기술] 도서 리뷰](https://dawonny.tistory.com/523)
 - [Strands Evals SDK로 AI 에이전트 자동 채점 시스템 만들기](https://dawonny.tistory.com/522)
 - [[우리, 프로그래머들] 도서 리뷰](https://dawonny.tistory.com/521)
 - [Claude Code의 메모리 관리](https://dawonny.tistory.com/520)
-- [Oh-My-ClaudeCode](https://dawonny.tistory.com/519)
 
